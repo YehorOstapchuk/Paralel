@@ -1,0 +1,2 @@
+C:\Users\Егор\source\repos\RabinKarp\Debug\RabinKarp.exe
+C:\Users\Егор\source\repos\RabinKarp\Debug\RabinKarp.pdb

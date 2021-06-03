@@ -1,0 +1,2 @@
+C:\Users\Егор\source\repos\OpenMpProject\Debug\OpenMpProject.exe
+C:\Users\Егор\source\repos\OpenMpProject\Debug\OpenMpProject.pdb

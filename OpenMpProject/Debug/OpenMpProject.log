@@ -1,0 +1,6 @@
+﻿  OpenMpProject.cpp
+C:\Users\Егор\source\repos\OpenMpProject\OpenMpProject.cpp(13,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Егор\source\repos\OpenMpProject\OpenMpProject.cpp(52,20): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Егор\source\repos\OpenMpProject\OpenMpProject.cpp(25,15): warning C4101: res: неиспользованная локальная переменная
+C:\Users\Егор\source\repos\OpenMpProject\OpenMpProject.cpp(25,9): warning C4101: size: неиспользованная локальная переменная
+  OpenMpProject.vcxproj -> C:\Users\Егор\source\repos\OpenMpProject\Debug\OpenMpProject.exe

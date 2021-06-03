@@ -1,0 +1,4 @@
+﻿  HelloMPI.cpp
+C:\MPI\ProjectMPI2\HelloMPI.cpp(13,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\MPI\ProjectMPI2\HelloMPI.cpp(59,24): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  ProjectMPI.vcxproj -> C:\MPI\ProjectMPI2\Debug\ProjectMPI.exe

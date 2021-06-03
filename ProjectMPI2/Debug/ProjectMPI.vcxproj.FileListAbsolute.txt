@@ -1,0 +1,4 @@
+C:\MPI\ProjectMPI\Debug\ProjectMPI.exe
+C:\MPI\ProjectMPI\Debug\ProjectMPI.pdb
+C:\MPI\ProjectMPI2\Debug\ProjectMPI.exe
+C:\MPI\ProjectMPI2\Debug\ProjectMPI.pdb
